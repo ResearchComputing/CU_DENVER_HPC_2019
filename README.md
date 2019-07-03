@@ -24,13 +24,13 @@ _*Note: experienced Linux users may skip Sessions 2 and 3 if desired._
 
 ### Prerequisites: 
 
-1. Sign up for an account on RMACC Summit: 
+* Sign up for an account on RMACC Summit: 
 
 [https://curc.readthedocs.io/en/latest/access/rmacc.html](https://curc.readthedocs.io/en/latest/access/rmacc.html)  
 
-+ _PLEASE SIGN UP FOR YOUR ACCOUNT AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub._
+** __PLEASE SIGN UP FOR YOUR ACCOUNT AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!__  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub.
 
-2. Please bring a laptop with a Secure Shell (SSH) client software installed.  If you have Mac OS, this is already installed (via the "Terminal" application).  If you have Windows, there are many options such as PuTTy and Gitbash.  
+* Please bring a laptop with a Secure Shell (SSH) client software installed.  If you have Mac OS, this is already installed (via the "Terminal" application).  If you have Windows, there are many options such as PuTTy and Gitbash.  
 
 Contact andrew.monaghan@colorado.edu if you have questions.  
 
