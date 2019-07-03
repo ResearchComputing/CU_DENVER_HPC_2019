@@ -15,12 +15,12 @@ Is your need for computational resources outgrowing your laptop?  [RMACC Summit]
 ### Agenda:
 
 * 10:00a-11:00a: Session 1: Overview of RMACC Summit
-* 11:00a-12:00p: Session 2: Introduction to Linux
+* 11:00a-12:00p: Session 2: Introduction to Linux*
 * 12:00p-1:00p : Lunch (on your own)
-* 1:00p-2:00p  : Session 3: Introduction to Bash shell scripting
+* 1:00p-2:00p  : Session 3: Introduction to Bash shell scripting*
 * 2:00p-3:00p  : Session 4: Job Submission on RMACC Summit 
 
-*Note: experienced Linux users may skip Sessions 2 and 3 if desired.
+_*Note: experienced Linux users may skip Sessions 2 and 3 if desired._
 
 ### Prerequisites: 
 
@@ -28,7 +28,7 @@ Is your need for computational resources outgrowing your laptop?  [RMACC Summit]
 
 [https://curc.readthedocs.io/en/latest/access/rmacc.html](https://curc.readthedocs.io/en/latest/access/rmacc.html)  
 
-PLEASE DO THIS AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub. 
++ _PLEASE SIGN UP FOR YOUR ACCOUNT AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub._
 
 2. Please bring a laptop with a Secure Shell (SSH) client software installed.  If you have Mac OS, this is already installed (via the "Terminal" application).  If you have Windows, there are many options such as PuTTy and Gitbash.  
 
