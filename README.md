@@ -25,15 +25,20 @@ Is your need for computational resources outgrowing your laptop?  [RMACC Summit]
 ### Prerequisites: 
 
 1. Sign up for an account on RMACC Summit: 
-[https://curc.readthedocs.io/en/latest/access/rmacc.html](https://curc.readthedocs.io/en/latest/access/rmacc.html)  
-PLEASE DO THIS AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub. Contact andrew.monaghan@colorado.edu if you have questions.  
 
-2. Please bring a laptop with a Secure Shell (SSH) client software installed.  If you have Mac OS, this is already installed (via the "Terminal" application).  If you have Windows, there are many options such as PuTTy and Gitbash.  Contact andrew.monaghan@colorado.edu if you have questions.  
+[https://curc.readthedocs.io/en/latest/access/rmacc.html](https://curc.readthedocs.io/en/latest/access/rmacc.html)  
+
+PLEASE DO THIS AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub. 
+
+2. Please bring a laptop with a Secure Shell (SSH) client software installed.  If you have Mac OS, this is already installed (via the "Terminal" application).  If you have Windows, there are many options such as PuTTy and Gitbash.  
+
+Contact andrew.monaghan@colorado.edu if you have questions.  
 
 ### Participant Feedback Survey: 
 [http://tinyurl.com/curc-survey18](http://tinyurl.com/curc-survey18)
 
 ### Course Materials: 
 https://github.com/ResearchComputing/CU_DENVER_HPC_2019
+
 (from command line: `git clone https://github.com/ResearchComputing/CU_DENVER_HPC_2019`)
 
