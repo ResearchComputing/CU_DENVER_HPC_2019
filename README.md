@@ -16,9 +16,9 @@ Is your need for computational resources outgrowing your laptop?  [RMACC Summit]
 
 * 10:00a-11:00a: Session 1: Overview of RMACC Summit
 * 11:00a-12:00p: Session 2: Introduction to Linux*
-* 12:00p-1:00p : Lunch (on your own)
-* 1:00p-2:00p  : Session 3: Introduction to Bash shell scripting*
-* 2:00p-3:00p  : Session 4: Job Submission on RMACC Summit 
+* 12:00p-1:00p: Lunch (on your own)
+* 1:00p-2:00p: Session 3: Introduction to Bash shell scripting*
+* 2:00p-3:00p: Session 4: Job Submission on RMACC Summit 
 
 _*Note: experienced Linux users may skip Sessions 2 and 3 if desired._
 
