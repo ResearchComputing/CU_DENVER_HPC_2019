@@ -1,7 +1,7 @@
 ## Workshop: Fundamentals of High Performance Computing on RMACC Summit
 
 ### Date: 
-Friday, 26 July, 10:00a-3:00p.
+Friday, 26 July, 11:00a-4:00p.
 
 ### Location: 
 [Inworks](https://inworks.ucdenver.edu/w/) at CU Denver, [1250 14th St, Denver CO 80202](https://goo.gl/maps/5BW3kmHymJao1KQq9)
