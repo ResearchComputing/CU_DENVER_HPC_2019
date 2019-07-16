@@ -27,7 +27,7 @@ _*Note: experienced Linux users may skip Sessions 2 and 3 if desired._
 
 1) Sign up for an account on RMACC Summit. 
 
-* Step 1: Fill out the CU [Denver/Anshutz onboarding form](https://ucdenverdata.formstack.com/forms/rmacc_onboard).  
+* Step 1: Fill out the CU [Denver/Anschutz onboarding form](https://ucdenverdata.formstack.com/forms/rmacc_onboard).  
 * Step 2: Complete the RMACC account registration process [per the instructions on the Research Computing website](https://curc.readthedocs.io/en/latest/access/rmacc.html).
 
 __PLEASE SIGN UP FOR YOUR ACCOUNT AT LEAST ONE WEEK IN ADVANCE OF THE WORKSHOP!__  It can take up to a few days due to the need for CU Denver accounts to be routed through the National Science Foundation XSEDE SSO hub.
