@@ -7,7 +7,7 @@ Friday, 26 July, 11:00a-4:00p.
 [Inworks](https://inworks.ucdenver.edu/w/) at CU Denver, [1250 14th St, Denver CO 80202](https://goo.gl/maps/5BW3kmHymJao1KQq9)
 
 ### Instructors: 
-Andrew Monaghan, Daniel Trahan, Shelley Knuth
+Andrew Monaghan, Daniel Trahan, Shelley Knuth, Joel Frahm
 
 ### Description: 
 Is your need for computational resources outgrowing your laptop?  [RMACC Summit](https://www.colorado.edu/rc/resources/summit) is an NSF-funded high performance computing (HPC) resource operated by CU Boulder. [Access to RMACC Summit](https://curc.readthedocs.io/en/latest/access/rmacc.html) is available (for free) to researchers at CU Denver.  This workshop will provide an overview of RMACC Summit, followed by tutorials on the core fundamentals needed to navigate the system (linux, bash scripting, and job submission). 
